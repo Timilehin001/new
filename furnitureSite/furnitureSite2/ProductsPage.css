@@ -1,0 +1,78 @@
+h1{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    background-size: 100%;
+}
+.PageHeader{
+    height: 20em;
+}
+.igor{
+    background-color: gainsboro;
+}
+.secondProductRow1{
+    margin: auto;
+}
+div.contaniner {
+    background-color: gainsboro;
+}
+span{
+    border-bottom: 1px solid #f4a261;
+    display: inline-block;
+    padding-bottom: 0.3em;
+    margin-bottom: 0.3em;
+}
+.btn:hover{
+    background-color: #f4a261;
+    color: white;
+    border-color: #f4a261;
+}
+/* #navbarSupportedContent{
+    width: 0.5em;
+} */
+/* .navbar-brand, .nav-link {
+    font-size: 1.5em;
+} */
+.btn{
+    color: #f4a261;
+    border-color: #f4a261;
+}
+.readMoreLink {
+    text-decoration: none;
+    color: #f4a261;
+}
+.img-fluid{
+    width: 15rem;
+    height: 15rem;
+}
+.blogPost{
+    font-family: 'Lato', sans-serif;
+    border-top: 1px solid grey;
+    padding-top: 0.4em;
+}
+.blogImg{
+    width: 22em;
+    height: 15em;
+}
+footer{
+    font-family: 'Lato', sans-serif;
+}
+h3.pt-3 {
+    border-bottom: 1px solid white;
+    /* border-width: 0.5em; */
+
+}
+.row2sub{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.SubscribeButton{
+    margin-top: 1.5em;
+}
+.BlogRow{
+    box-sizing: border-box;
+}
